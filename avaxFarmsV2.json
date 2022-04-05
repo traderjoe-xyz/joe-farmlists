@@ -1,5 +1,16 @@
 {
-  "avaxFarmsV2": [
+  "name": "Avax Farms MasterChefV2",
+  "keywords": [
+    "traderjoe-xyz",
+    "avalanche"
+  ],
+  "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+  },
+  "timestamp": "2022-4-04T17:11:00+00:00",
+  "farms": [
      {
         "id": 0,
         "name": "JOE-AVAX",

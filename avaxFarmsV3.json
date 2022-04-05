@@ -1,5 +1,16 @@
 {
-  "avaxFarmsV3": [
+  "name": "Avax Farms MasterChefV3",
+  "keywords": [
+    "traderjoe-xyz",
+    "avalanche"
+  ],
+  "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+  },
+  "timestamp": "2022-4-04T17:11:00+00:00",
+  "farms": [
     {
       "id": 0,
       "pair": "0x454E67025631C065d3cFAD6d71E6892f74487a15",
