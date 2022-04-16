@@ -1,9 +1,5 @@
 {
   "name": "Avax Farms MasterChefV3",
-  "keywords": [
-    "traderjoe-xyz",
-    "avalanche"
-  ],
   "version": {
       "major": 1,
       "minor": 0,
