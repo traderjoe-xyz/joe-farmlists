@@ -1,12 +1,12 @@
 {
-  "name": "Avax Farms MasterChefV3",
+  "name": "MasterChefV3 Farms ",
   "version": {
       "major": 1,
       "minor": 0,
       "patch": 0
   },
   "timestamp": "2022-4-04T17:11:00+00:00",
-  "farms": [
+  "avaxFarms": [
     {
       "id": 0,
       "pair": "0x454E67025631C065d3cFAD6d71E6892f74487a15",
@@ -656,6 +656,19 @@
       "token0": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
       "token1": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "name": "AVAX-UST"
+    }
+  ], 
+  "rinkebyFarms": [
+    {
+      "id": 0,
+      "pair": "0xaC7b4E5C0248828d4fe3407c56d9EEeB4C4A6747",
+      "allocPoint": 100,
+      "rewarder": "0xAd4c8Af81D8e32a780bE8d042d73eE03EA129Aec",
+      "masterChef": "0xEedf119022F1Bb5F63676BbE855c82151B7198AF",
+      "v3": true,
+      "token0": "0x7Ea26570ef0d86D02B4f79266f84D2956AEBBd65",
+      "token1": "0xf515FE956c41F8D919b3f5730943959b169555d3",
+      "name": "TUNA-BACON"
     }
   ]
 }

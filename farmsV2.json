@@ -1,12 +1,12 @@
 {
-  "name": "Avax Farms MasterChefV2",
+  "name": "MasterChefV2 Farms",
   "version": {
       "major": 1,
       "minor": 0,
       "patch": 0
   },
   "timestamp": "2022-4-04T17:11:00+00:00",
-  "farms": [
+  "avaxFarms": [
      {
         "id": 0,
         "name": "JOE-AVAX",
@@ -357,5 +357,17 @@
         "allocPoint": 0,
         "masterChef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
      }
+  ],
+  "rinkebyFarms": [
+   {
+      "id": 0,
+      "pair": "0x961Ef01283b7f90B2346f3dCeC9d8291bdacaE92",
+      "allocPoint": 100,
+      "rewarder": "0xBa4d45568CbeC9d9357655b65405768CE22245a6",
+      "masterChef": "0x1F51b7697A1919cF301845c93D4843FD620ad7Cc",
+      "token0": "0xce347E069B68C53A9ED5e7DA5952529cAF8ACCd4",
+      "token1": "0x5b8470fbc6B31038aa07aBD3010aCffCA6E36611",
+      "name": "JOE-fUSDT"
+    }
   ]
 }
