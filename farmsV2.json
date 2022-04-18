@@ -116,7 +116,7 @@
         "id": 29,
         "name": "LINK.e-AVAX",
         "pair": "0x6F3a0C89f611Ef5dC9d96650324ac633D02265D3",
-        "allocPoint": 300,
+        "allocPoint": 0,
         "masterChef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
      },
      {
@@ -263,7 +263,7 @@
         "id": 52,
         "name": "BNB-AVAX",
         "pair": "0xeb8eB6300c53C3AddBb7382Ff6c6FbC4165B0742",
-        "allocPoint": 200,
+        "allocPoint": 0,
         "masterChef": "0xd6a4F121CA35509aF06A0Be99093d08462f53052"
      },
      {
