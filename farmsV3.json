@@ -2,10 +2,10 @@
   "name": "MasterChefV3 Farms ",
   "version": {
       "major": 1,
-      "minor": 0,
+      "minor": 1,
       "patch": 0
   },
-  "timestamp": "2022-4-04T17:11:00+00:00",
+  "timestamp": "2022-4-04T19:11:00+00:00",
   "avaxFarms": [
     {
       "id": 0,
@@ -680,6 +680,17 @@
       "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "token1": "0x1111111111182587795eF1098ac7da81a108C97a",
       "name": "AVAX-BPT"
+    },
+    {
+      "id": 69, 
+      "pair": "0xbdc7EF37283BC67D50886c4afb64877E3e83f869",
+      "allocPoint": 100,
+      "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
+      "rewarder": "0x537533139e9240bB97031074ADf8E7f1a56E0833",
+      "v3": true,
+      "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "token1": "0x77777777777d4554c39223C354A05825b2E8Faa3",
+      "name": "AVAX-YETI"
     }
   ], 
   "rinkebyFarms": [
