@@ -512,7 +512,7 @@
     {
       "id": 52,
       "pair": "0x939D6eD8a0f7FC90436BA6842D7372250a03fA7c",
-      "allocPoint": 100,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0x7DE34518f11576cF03281cE615d200419aC8187f",
       "v3": true,
