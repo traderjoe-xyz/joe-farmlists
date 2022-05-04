@@ -3,7 +3,7 @@
   "version": {
       "major": 1,
       "minor": 4,
-      "patch": 3
+      "patch": 4
   },
   "timestamp": "2022-5-04T00:00:00+00:00",
   "avaxFarms": [
@@ -704,7 +704,7 @@
       "name": "AVAX-DBY"
     },
     {
-      "id": 70, 
+      "id": 71, 
       "pair": "0x76a551fc28029639AB017742c224159A786F544F",
       "allocPoint": 100,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
