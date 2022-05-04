@@ -2,7 +2,7 @@
   "name": "MasterChefV3 Farms ",
   "version": {
       "major": 1,
-      "minor": 3,
+      "minor": 4,
       "patch": 3
   },
   "timestamp": "2022-5-04T00:00:00+00:00",
@@ -702,8 +702,18 @@
       "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "token1": "0x5085434227aB73151fAd2DE546210Cbc8663dF96",
       "name": "AVAX-DBY"
+    },
+    {
+      "id": 70, 
+      "pair": "0x76a551fc28029639AB017742c224159A786F544F",
+      "allocPoint": 100,
+      "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
+      "rewarder": "0xA8a91f314788bD93afc4b66129F43549398B669F",
+      "v3": true,
+      "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "token1": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
+      "name": "AVAX-STEAK"
     }
-
   ], 
   "rinkebyFarms": [
     {
