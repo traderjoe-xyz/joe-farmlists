@@ -2,8 +2,8 @@
   "name": "MasterChefV3 Farms ",
   "version": {
       "major": 1,
-      "minor": 4,
-      "patch": 4
+      "minor": 5,
+      "patch": 0
   },
   "timestamp": "2022-5-04T00:00:00+00:00",
   "avaxFarms": [
@@ -713,6 +713,28 @@
       "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "token1": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
       "name": "AVAX-STEAK"
+    },
+    {
+      "id": 72, 
+      "pair": "0x3B90A467f58631369903c2005457a3d28d47f3E5",
+      "allocPoint": 50,
+      "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
+      "rewarder": "0xc0a15dceE1cB664eE79038976fbE15F59F0389BB",
+      "v3": true,
+      "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "token1": "0x9C846D808A41328A209e235B5e3c4E626DAb169E",
+      "name": "AVAX-FERT"
+    },
+    {
+      "id": 73, 
+      "pair": "0x017025f07b23Bb30e1140dB10D3fe7A1626CFdD0",
+      "allocPoint": 50,
+      "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
+      "rewarder": "0xd2B2856882a274007d4b26d3eeB2c3E610aFbF05",
+      "v3": true,
+      "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "token1": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
+      "name": "AVAX-FEED"
     }
   ], 
   "rinkebyFarms": [
