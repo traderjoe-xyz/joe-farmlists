@@ -2,7 +2,7 @@
   "name": "MasterChefV3 Farms ",
   "version": {
       "major": 2,
-      "minor": 1,
+      "minor": 2,
       "patch": 0
   },
   "timestamp": "2022-5-04T00:00:00+00:00",
@@ -343,7 +343,7 @@
     {
       "id": 36,
       "pair": "0x9155f441FFDfA81b13E385bfAc6b3825C05184Ee",
-      "allocPoint": 100,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0x6329eba10310daf163e358ED996419B738b13B3a",
       "v3": true,
@@ -385,7 +385,7 @@
     {
       "id": 40,
       "pair": "0x81034A38a124A3290DC226798f34c6645B153a02",
-      "allocPoint": 100,
+      "allocPoint": 50,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0x851c63E0F698035C056f58Ed9BeDcc68a32F10F3",
       "v3": true,
