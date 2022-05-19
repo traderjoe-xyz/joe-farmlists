@@ -1,8 +1,8 @@
 {
   "name": "MasterChefV3 Farms ",
   "version": {
-      "major": 2,
-      "minor": 2,
+      "major": 3,
+      "minor": 0,
       "patch": 0
   },
   "timestamp": "2022-5-04T00:00:00+00:00",
@@ -170,7 +170,7 @@
     {
       "id": 19,
       "pair": "0x2923a62b2531EC744ca0C1e61dfFab1Ad9369FeB",
-      "allocPoint": 50,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "v3": true,
       "token0": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
@@ -180,7 +180,7 @@
     {
       "id": 20,
       "pair": "0x86D1b1Ab4812a104BC1Ea1FbD07809DE636E6C6b",
-      "allocPoint": 50,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0xaeDc1a7314362070A46B4cA8d90C32898068D03F",
       "v3": true,
@@ -241,7 +241,7 @@
     {
       "id": 26,
       "pair": "0xF723feEa2E376b7231cB250F7628fFfc3f2dbD10",
-      "allocPoint": 50,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "v3": true,
       "token0": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
@@ -282,7 +282,7 @@
     {
       "id": 30,
       "pair": "0x5d95ae932D42E53Bb9DA4DE65E9b7263A4fA8564",
-      "allocPoint": 100,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "v3": true,
       "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
@@ -302,7 +302,7 @@
     {
       "id": 32,
       "pair": "0x3052a75dfD7A9D9B0F81E510E01d3Fe80A9e7ec7",
-      "allocPoint": 100,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0x2C9832EBe34b581871a6acB6f68384380121559F",
       "v3": true,
@@ -427,7 +427,7 @@
     {
       "id": 44,
       "pair": "0xb8361D0E3F3B0fc5e6071f3a3C3271223C49e3d9",
-      "allocPoint": 50,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0xc2Ee73EF5FF77c37dEBa2593EC80e5d4B655735E",
       "v3": true,
@@ -449,7 +449,7 @@
     {
       "id": 46,
       "pair": "0xDB87ba23c60e5fe6514f352A30b1170494045221",
-      "allocPoint": 50,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0x5edACa6AE76c154315d6C38B26D5b1F0a39FfAEB",
       "v3": true,
@@ -577,7 +577,7 @@
     {
       "id": 59,
       "pair": "0x1371a6d8CBe2Ca66d0911f270e1cAA7C12A3045A",
-      "allocPoint": 100,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0x67D16973416Ac8aaFCC03Fc790B52ca47dF05A3c",
       "v3": true,
@@ -588,7 +588,7 @@
     {
       "id": 60,
       "pair": "0x465460F46969F2bf969432956491dEE95A6ba493",
-      "allocPoint": 100,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0xE941Ba83B221D68595e457dfa271c730f1732635",
       "v3": true,
@@ -629,7 +629,7 @@
     {
       "id": 64,
       "pair": "0x00979Bd14bD5Eb5c456c5478d3BF4b6E9212bA7d",
-      "allocPoint": 50,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0x2ebE4F086300Aa227D0Fba7718BDaDa8190Cd26b",
       "v3": true,
@@ -662,7 +662,7 @@
     {
       "id": 67,
       "pair": "0x9C396cF96319C8EF2b662Af57DEA6EE374b9959F",
-      "allocPoint": 100,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0x2fa11a02bF7C5d5de920564d61EB3546cbB7589a",
       "v3": true,
@@ -673,7 +673,7 @@
     {
       "id": 68,
       "pair": "0x0b44F6F5a32De1b36CfCD5F68f181F6787fb3225",
-      "allocPoint": 100,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0xa8a9D272D1a3B6211400f3759984ea59588853F8",
       "v3": true,
@@ -717,7 +717,7 @@
     {
       "id": 72, 
       "pair": "0x3B90A467f58631369903c2005457a3d28d47f3E5",
-      "allocPoint": 50,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0xc0a15dceE1cB664eE79038976fbE15F59F0389BB",
       "v3": true,
@@ -728,7 +728,7 @@
     {
       "id": 73, 
       "pair": "0x017025f07b23Bb30e1140dB10D3fe7A1626CFdD0",
-      "allocPoint": 50,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0xd2B2856882a274007d4b26d3eeB2c3E610aFbF05",
       "v3": true,
