@@ -1,11 +1,11 @@
 {
   "name": "MasterChefV3 Farms ",
   "version": {
-      "major": 3,
-      "minor": 0,
-      "patch": 0
+    "major": 4,
+    "minor": 0,
+    "patch": 0
   },
-  "timestamp": "2022-5-04T00:00:00+00:00",
+  "timestamp": "2022-05-25T00:00:00+00:00",
   "avaxFarms": [
     {
       "id": 0,
@@ -30,7 +30,7 @@
     {
       "id": 2,
       "pair": "0x72c3438cf1c915EcF5D9F17A6eD346B273d5bF71",
-      "allocPoint": 200,
+      "allocPoint": 100,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "v3": true,
       "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
@@ -130,7 +130,7 @@
     {
       "id": 13,
       "pair": "0x140CAc5f0e05cBEc857e65353839FddD0D8482C1",
-      "allocPoint": 300,
+      "allocPoint": 100,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "v3": true,
       "token0": "0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed",
@@ -191,7 +191,7 @@
     {
       "id": 21,
       "pair": "0xB674f93952F02F2538214D4572Aa47F262e990Ff",
-      "allocPoint": 400,
+      "allocPoint": 100,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "v3": true,
       "token0": "0x321E7092a180BB43555132ec53AaA65a5bF84251",
@@ -261,7 +261,7 @@
     {
       "id": 28,
       "pair": "0xCDFD91eEa657cc2701117fe9711C9a4F61FEED23",
-      "allocPoint": 150,
+      "allocPoint": 100,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0x364996dc358926b9A86b1Ed601A33d5915fC86C8",
       "v3": true,
@@ -385,7 +385,7 @@
     {
       "id": 40,
       "pair": "0x81034A38a124A3290DC226798f34c6645B153a02",
-      "allocPoint": 50,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0x851c63E0F698035C056f58Ed9BeDcc68a32F10F3",
       "v3": true,
@@ -396,7 +396,7 @@
     {
       "id": 41,
       "pair": "0x4dC5291cdc7Ad03342994E35D0Ccc76De065A566",
-      "allocPoint": 100,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "v3": true,
       "token0": "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c",
@@ -460,7 +460,7 @@
     {
       "id": 47,
       "pair": "0x5B9Faf0feA95df4D4cB894Ef920704daFf656f3E",
-      "allocPoint": 50,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0x24a928000d15Bac56253c265858D576B6cf56E81",
       "v3": true,
@@ -471,7 +471,7 @@
     {
       "id": 48,
       "pair": "0x565d20BD591b00EAD0C927e4b6D7DD8A33b0B319",
-      "allocPoint": 100,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "v3": true,
       "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
@@ -523,7 +523,7 @@
     {
       "id": 53,
       "pair": "0x218e6A0AD170460F93eA784FbcC92B57DF13316E",
-      "allocPoint": 100,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0xF84ea20027a7D5a471a917C34B7EAEC85F0090Ac",
       "v3": true,
@@ -555,7 +555,7 @@
     {
       "id": 57,
       "pair": "0x66D12e1cb13EAbAB21f1Fb6628B1Ef33C6dED5a7",
-      "allocPoint": 100,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0x80C432C642E097DB2D4cf576E17428900B575348",
       "v3": true,
@@ -640,7 +640,7 @@
     {
       "id": 65,
       "pair": "0x3931589c6c078524d1fa88e4d86d2f1ac9fed56d",
-      "allocPoint": 50,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0xD4283F9E5a91E4D390FccB3c501Cf8c44c6E53Bc",
       "v3": true,
@@ -682,7 +682,7 @@
       "name": "AVAX-BPT"
     },
     {
-      "id": 69, 
+      "id": 69,
       "pair": "0xbdc7EF37283BC67D50886c4afb64877E3e83f869",
       "allocPoint": 100,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
@@ -693,9 +693,9 @@
       "name": "AVAX-YETI"
     },
     {
-      "id": 70, 
+      "id": 70,
       "pair": "0x30556AcC64b7b8F37ae4CE8325dd279847F09926",
-      "allocPoint": 100,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0xf732016b26dB5a855AeC3d2aB1e4aE2c78B42b05",
       "v3": true,
@@ -704,7 +704,7 @@
       "name": "AVAX-DBY"
     },
     {
-      "id": 71, 
+      "id": 71,
       "pair": "0x76a551fc28029639AB017742c224159A786F544F",
       "allocPoint": 100,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
@@ -715,7 +715,7 @@
       "name": "AVAX-STEAK"
     },
     {
-      "id": 72, 
+      "id": 72,
       "pair": "0x3B90A467f58631369903c2005457a3d28d47f3E5",
       "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
@@ -726,7 +726,7 @@
       "name": "AVAX-FERT"
     },
     {
-      "id": 73, 
+      "id": 73,
       "pair": "0x017025f07b23Bb30e1140dB10D3fe7A1626CFdD0",
       "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
@@ -736,7 +736,7 @@
       "token1": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
       "name": "AVAX-FEED"
     }
-  ], 
+  ],
   "rinkebyFarms": [
     {
       "id": 0,
