@@ -2,10 +2,10 @@
   "name": "MasterChefV3 Farms ",
   "version": {
     "major": 4,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
-  "timestamp": "2022-05-25T00:00:00+00:00",
+  "timestamp": "2022-06-025T00:00:00+00:00",
   "avaxFarms": [
     {
       "id": 0,
@@ -735,6 +735,17 @@
       "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "token1": "0xab592d197ACc575D16C3346f4EB70C703F308D1E",
       "name": "AVAX-FEED"
+    },
+    {
+      "id": 73,
+      "pair": "0xD138F9204A65A8AC63A06e6504d0F5293238c44A",
+      "allocPoint": 50,
+      "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
+      "rewarder": "0xD19F8b7fAfED83F261196419280835983320104C",
+      "v3": true,
+      "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "token1": "0xbf1230bb63bfD7F5D628AB7B543Bcefa8a24B81B",
+      "name": "AVAX-CHRO"
     }
   ],
   "rinkebyFarms": [
