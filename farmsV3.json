@@ -760,5 +760,14 @@
       "token1": "0xf515FE956c41F8D919b3f5730943959b169555d3",
       "name": "TUNA-BACON"
     }
+  ],
+  "fujiFarms": [
+    {
+      "id": 1,
+      "pair": "0xb18aa9d339351e41c79b91cd463e30226bfdb6d9",
+      "allocPoint": 100,
+      "masterChef": "0x47e4B09651D76609e902183c2315b0638fa8375E",
+      "name": "WETH-AVAX"
+    }
   ]
 }
