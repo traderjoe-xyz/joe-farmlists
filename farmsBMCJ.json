@@ -135,5 +135,21 @@
       "token1": "0x5b8470fbc6B31038aa07aBD3010aCffCA6E36611",
       "name": "JOE-fUSDT"
     }
+  ],
+  "fujiFarms": [
+    {
+      "id": 0,
+      "pair": "0xb18aa9d339351e41c79b91cd463e30226bfdb6d9",
+      "allocPoint": 100,
+      "masterChef": "0xEE7B7871755bCe3CD1B0aa1d01320Dd311b08279",
+      "name": "USDC-AVAX"
+    },
+    {
+      "id": 1,
+      "pair": "0xb6f0758f374b3c570e8073ec8f552c9b2db939f3",
+      "allocPoint": 100,
+      "masterChef": "0xEE7B7871755bCe3CD1B0aa1d01320Dd311b08279",
+      "name": "USDT-AVAX"
+    }
   ]
 }

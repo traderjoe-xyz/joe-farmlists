@@ -369,5 +369,14 @@
       "token1": "0x5b8470fbc6B31038aa07aBD3010aCffCA6E36611",
       "name": "JOE-fUSDT"
     }
+  ],
+  "fujiFarms": [
+    {
+      "id": 3,
+      "pair": "0x6ebe57aa70c7b8cb54d01c365fd6dfe777f7667f",
+      "allocPoint": 100,
+      "masterChef": "0xEAA9637E54D4Da88d7A56E797C2EAa4950111033",
+      "name": "WBTC-AVAX"
+    }
   ]
 }
