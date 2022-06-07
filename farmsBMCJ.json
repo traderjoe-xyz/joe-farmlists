@@ -139,7 +139,7 @@
   "fujiFarms": [
     {
       "id": 0,
-      "pair": "0xb18aa9d339351e41c79b91cd463e30226bfdb6d9",
+      "pair": "0x0c01abf914b0c4554d9da66167293b10c312fe57",
       "allocPoint": 100,
       "masterChef": "0xEE7B7871755bCe3CD1B0aa1d01320Dd311b08279",
       "name": "USDC-AVAX"
