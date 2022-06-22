@@ -1,7 +1,7 @@
 {
   "name": "BMCJ Farms",
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 0
   },
@@ -129,6 +129,7 @@
       "pair": "0x2fD81391E30805Cc7F2Ec827013ce86dc591B806",
       "allocPoint": 600,
       "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
+      "rewarder": "0xc548b26226b3ad77906bdDffc82023EC8Db69e49",
       "token0": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
       "token1": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "name": "AVAX-BTC.b"
