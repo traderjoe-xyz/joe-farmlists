@@ -2,10 +2,10 @@
   "name": "BMCJ Farms",
   "version": {
     "major": 6,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
-  "timestamp": "2022-06-30T00:00:00+00:00",
+  "timestamp": "2022-09-28T00:00:00+00:00",
   "avaxFarms": [
     {
       "id": 0,
@@ -133,6 +133,15 @@
       "token0": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
       "token1": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "name": "AVAX-BTC.b"
+    },
+    {
+      "id": 14,
+      "pair": "0xf57971383560715CcCF94E0C639125Ae0e955e60",
+      "allocPoint": 100,
+      "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
+      "token0": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+      "token1": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "name": "AVAX-BUSD"
     }
   ],
   "rinkebyFarms": [
