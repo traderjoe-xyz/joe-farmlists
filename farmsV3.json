@@ -2,10 +2,10 @@
   "name": "MasterChefV3 Farms ",
   "version": {
     "major": 5,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
-  "timestamp": "2022-09-06T00:00:00+00:00",
+  "timestamp": "2022-10-21T00:00:00+00:00",
   "avaxFarms": [
     {
       "id": 0,
@@ -790,6 +790,17 @@
       "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "token1": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
       "name": "AVAX-CAI"
+    },
+    {
+      "id": 79,
+      "pair": "0xA1AeB013A997A7E0e3B7679d4eD49b1df09b694B",
+      "allocPoint": 0,
+      "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
+      "rewarder": "0xcF7A70562BFe57a9A9520a07481c7EF307Eb5227",
+      "v3": true,
+      "token0": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "token1": "0xbBAAA0420D474B34Be197f95A323C2fF3829E811",
+      "name": "LODE-USDC"
     }
   ],
   "rinkebyFarms": [
