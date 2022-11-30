@@ -2,7 +2,7 @@
   "name": "MasterChefV3 Farms ",
   "version": {
     "major": 5,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   },
   "timestamp": "2022-11-10T00:00:00+00:00",
@@ -801,6 +801,17 @@
       "token0": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
       "token1": "0xbBAAA0420D474B34Be197f95A323C2fF3829E811",
       "name": "LODE-USDC"
+    },
+    {
+      "id": 80,
+      "pair": "0x83ccF918570C0b90e6918806b9f1be0E6E3ce112",
+      "allocPoint": 0,
+      "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
+      "rewarder": "0x0F41bEb0D3DA01216403B23Ccfd94b04fa0FE6Ee",
+      "v3": true,
+      "token0": "0x68327a91E79f87F501bC8522fc333FB7A72393cb",
+      "token1": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "name": "AUX-USDC"
     }
   ],
   "rinkebyFarms": [
