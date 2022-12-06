@@ -2,15 +2,15 @@
   "name": "BMCJ Farms",
   "version": {
     "major": 6,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
-  "timestamp": "2022-09-28T00:00:00+00:00",
+  "timestamp": "2022-12-06T00:00:00+00:00",
   "avaxFarms": [
     {
       "id": 0,
       "pair": "0xf4003F4efBE8691B60249E6afbD307aBE7758adb",
-      "allocPoint": 4000,
+      "allocPoint": 3000,
       "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
       "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "token1": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
@@ -19,7 +19,7 @@
     {
       "id": 1,
       "pair": "0xFE15c2695F1F920da45C30AAE47d11dE51007AF9",
-      "allocPoint": 2000,
+      "allocPoint": 1500,
       "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
       "token0": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
       "token1": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
@@ -118,7 +118,7 @@
     {
       "id": 12,
       "pair": "0xbb4646a764358ee93c2a9c4a147d5aDEd527ab73",
-      "allocPoint": 2500,
+      "allocPoint": 1000,
       "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
       "token0": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
       "token1": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
@@ -127,7 +127,7 @@
     {
       "id": 13,
       "pair": "0x2fD81391E30805Cc7F2Ec827013ce86dc591B806",
-      "allocPoint": 600,
+      "allocPoint": 0,
       "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
       "rewarder": "0xc548b26226b3ad77906bdDffc82023EC8Db69e49",
       "token0": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
