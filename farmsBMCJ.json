@@ -2,10 +2,10 @@
   "name": "BMCJ Farms",
   "version": {
     "major": 6,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
-  "timestamp": "2022-12-17T00:00:00+00:00",
+  "timestamp": "2023-02-23T00:00:00+00:00",
   "avaxFarms": [
     {
       "id": 0,
@@ -127,7 +127,7 @@
     {
       "id": 13,
       "pair": "0x2fD81391E30805Cc7F2Ec827013ce86dc591B806",
-      "allocPoint": 0,
+      "allocPoint": 100,
       "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
       "rewarder": "0xc548b26226b3ad77906bdDffc82023EC8Db69e49",
       "token0": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
@@ -137,7 +137,7 @@
     {
       "id": 14,
       "pair": "0xf57971383560715CcCF94E0C639125Ae0e955e60",
-      "allocPoint": 100,
+      "allocPoint": 0,
       "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
       "token0": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
       "token1": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
