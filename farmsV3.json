@@ -2,10 +2,10 @@
   "name": "MasterChefV3 Farms ",
   "version": {
     "major": 5,
-    "minor": 12,
+    "minor": 13,
     "patch": 0
   },
-  "timestamp": "2022-12-06T00:00:00+00:00",
+  "timestamp": "2023-02-23T00:00:00+00:00",
   "avaxFarms": [
     {
       "id": 0,
@@ -772,7 +772,7 @@
     {
       "id": 77,
       "pair": "0x1a95f00aC4826D9a8fa6eb9f9900c39513f6b1Ca",
-      "allocPoint": 50,
+      "allocPoint": 0,
       "masterChef": "0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00",
       "rewarder": "0xE413C6849d371E0B771d5294A5ab31a515618d3b",
       "v3": true,
