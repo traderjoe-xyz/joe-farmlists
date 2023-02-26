@@ -1,11 +1,11 @@
 {
   "name": "BMCJ Farms",
   "version": {
-    "major": 6,
-    "minor": 5,
+    "major": 7,
+    "minor": 0,
     "patch": 0
   },
-  "timestamp": "2023-02-23T00:00:00+00:00",
+  "timestamp": "2023-02-26T00:00:00+00:00",
   "avaxFarms": [
     {
       "id": 0,
@@ -14,7 +14,8 @@
       "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
       "token0": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "token1": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
-      "name": "AVAX-USDC"
+      "name": "AVAX-USDC",
+      "active": true
     },
     {
       "id": 1,
@@ -23,7 +24,8 @@
       "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
       "token0": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
       "token1": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
-      "name": "AVAX-WETH.e"
+      "name": "AVAX-WETH.e",
+      "active": true
     },
     {
       "id": 2,
@@ -68,7 +70,8 @@
       "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
       "token0": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
       "token1": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
-      "name": "AVAX-JOE"
+      "name": "AVAX-JOE",
+      "active": true
     },
     {
       "id": 7,
@@ -77,7 +80,8 @@
       "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
       "token0": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
       "token1": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
-      "name": "JOE-USDC"
+      "name": "JOE-USDC",
+      "active": true
     },
     {
       "id": 8,
@@ -86,7 +90,8 @@
       "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
       "token0": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
       "token1": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
-      "name": "USDC-USDC.e"
+      "name": "USDC-USDC.e",
+      "active": true
     },
     {
       "id": 9,
@@ -95,7 +100,8 @@
       "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
       "token0": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
       "token1": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
-      "name": "USDT-USDT.e"
+      "name": "USDT-USDT.e",
+      "active": true
     },
     {
       "id": 10,
@@ -122,7 +128,8 @@
       "masterChef": "0x4483f0b6e2F5486D06958C20f8C39A7aBe87bf8F",
       "token0": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
       "token1": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
-      "name": "AVAX-USDT"
+      "name": "AVAX-USDT",
+      "active": true
     },
     {
       "id": 13,
@@ -132,7 +139,8 @@
       "rewarder": "0xc548b26226b3ad77906bdDffc82023EC8Db69e49",
       "token0": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
       "token1": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
-      "name": "AVAX-BTC.b"
+      "name": "AVAX-BTC.b",
+      "active": true
     },
     {
       "id": 14,
